@@ -68,6 +68,10 @@ header {
     margin-right: 8px;
 }
 
+.action-icon:hover {
+    box-shadow: 0 0 10px black;
+}
+
 .likes-desc-container p {
     padding: 0 10px 10px;
     margin: 0;
