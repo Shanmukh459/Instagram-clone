@@ -11,9 +11,11 @@
 
 ### Deployed at
 
-- 
+- https://shanmukh-instagram-clone.vercel.app/
 
 ### Screenshot of application
+
+![image](https://github.com/Shanmukh459/Instagram-clone/assets/52078988/b0e7c096-e7b3-442e-b023-8c034b6d96b1)
 
 
 
